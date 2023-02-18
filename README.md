@@ -12,6 +12,8 @@ Finished: 18.02.23 | [Explanation](https://github.com/lucasmenke/notes/blob/main
 -   Typescript
 -   Tailwind
 
+<br>
+
 ## Images
 
 ![](https://i.imgur.com/dWTymdv.png)
